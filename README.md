@@ -4,7 +4,7 @@
 
 # Hi, I'm Aravinda 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EA4335&center=true&vCenter=true&width=700&lines=GCP+DevOps+Engineer;Google+Certified+Associate+Cloud+Engineer;Terraform+%7C+GKE+%7C+Argo+CD+%7C+GitOps" alt="GCP DevOps Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EA4335&center=true&vCenter=true&width=700&lines=GCP+DevOps+Engineer;Google+Certified+Professional+Cloud+Architect;Google+Certified+Associate+Cloud+Engineer;Terraform+%7C+GKE+%7C+Argo+CD+%7C+GitOps" alt="GCP DevOps Engineer" />
 
 *Building reliable, scalable and automated cloud platforms on Google Cloud*
 
@@ -60,6 +60,7 @@ I'm a DevOps engineer working with GCP, Kubernetes (GKE), Terraform and CI/CD au
 
 ## 🏆 Certifications
 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Infosys](https://img.shields.io/badge/Infosys-Certified_Associate_in_IaC_Terraform-34A853?style=for-the-badge&logo=terraform&logoColor=white)
 
