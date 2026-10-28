@@ -65,16 +65,16 @@ I'm a DevOps engineer working with GCP, Kubernetes (GKE), Terraform and CI/CD au
 
 | Project | What it does | Tech |
 |---|---|---|
-| [**terraform-gke-gcp**](https://github.com/Aravinda-07/terraform-gke-gcp) | Private, autoscaling GKE cluster with VPC, Cloud NAT, Workload Identity and a least-privilege node service account | Terraform, GCP, GKE |
-| [**gke-gitops-argocd-kustomize**](https://github.com/Aravinda-07/gke-gitops-argocd-kustomize) | GitOps for dev, staging and prod using Argo CD and Kustomize overlays | Argo CD, Kustomize, Kubernetes |
-| [**github-actions-docker-ci**](https://github.com/Aravinda-07/github-actions-docker-ci) | CI pipeline that lints, tests, builds, scans with Trivy and publishes a Docker image | GitHub Actions, Docker |
+| [**terraform-gke-gcp**](https://github.com/chitageri-aravinda/terraform-gke-gcp) | Private, autoscaling GKE cluster with VPC, Cloud NAT, Workload Identity and a least-privilege node service account | Terraform, GCP, GKE |
+| [**gke-gitops-argocd-kustomize**](https://github.com/chitageri-aravinda/gke-gitops-argocd-kustomize) | GitOps for dev, staging and prod using Argo CD and Kustomize overlays | Argo CD, Kustomize, Kubernetes |
+| [**github-actions-docker-ci**](https://github.com/chitageri-aravinda/github-actions-docker-ci) | CI pipeline that lints, tests, builds, scans with Trivy and publishes a Docker image | GitHub Actions, Docker |
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![Aravinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aravinda-07&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinda-07&layout=compact&theme=tokyonight&hide_border=true)
+![Aravinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitageri-aravinda&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chitageri-aravinda&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
