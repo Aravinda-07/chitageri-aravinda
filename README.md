@@ -8,7 +8,7 @@
 
 📍 Bengaluru, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitageri-aravinda-91b05a443/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caravind071998@gmail.com)
 
 </div>
@@ -80,7 +80,7 @@ I'm a DevOps engineer working with GCP, Kubernetes (GKE), Terraform and CI/CD au
 
 ## 📫 Let's Connect
 
-I'm always happy to talk about cloud, Kubernetes, GitOps and DevOps careers. Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) or at caravind071998@gmail.com.
+I'm always happy to talk about cloud, Kubernetes, GitOps and DevOps careers. Reach me on [LinkedIn](https://www.linkedin.com/in/chitageri-aravinda-91b05a443/) or at caravind071998@gmail.com.
 
 ---
 
