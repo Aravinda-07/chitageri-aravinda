@@ -85,6 +85,3 @@ I'm a DevOps engineer with **4+ years of experience** in GCP, Kubernetes (GKE), 
 
 I'm always happy to talk about cloud, Kubernetes, GitOps and DevOps careers. Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) or at caravind071998@gmail.com.
 
----
-
-<div align="center">⭐ If you find any of my repos useful, a star is appreciated!</div>
